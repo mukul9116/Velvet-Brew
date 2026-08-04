@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /style-guide
+
+Sitemap: https://velvet-brew-foundation.lovable.app/sitemap.xml

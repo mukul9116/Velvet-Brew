@@ -1,0 +1,13 @@
+# Velvet Brew
+
+> A specialty cafe in Brooklyn pouring single-origin espresso, hand-crafted pastries, and unhurried afternoons.
+
+Velvet Brew is a neighborhood coffee bar and kitchen focused on small-batch roasting, seasonal cooking, and warm hospitality. We serve breakfast, lunch, and coffee daily at 128 Linden Row, Brooklyn.
+
+## Pages
+
+- [Home](/): Overview of the cafe, signature items, and what to expect.
+- [Menu](/menu): Full menu — coffee, seasonal beverages, breakfast, mains, and desserts.
+- [About](/about): Our founding story, the team, and sourcing standards.
+- [Gallery](/gallery): Photos of the interior, food, drinks, and moments from the bar.
+- [Contact](/contact): Address, hours, reservations, and general inquiries.
