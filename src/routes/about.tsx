@@ -127,7 +127,7 @@ function AboutPage() {
           <p className="mb-4 font-medium text-sm uppercase tracking-[0.25em] text-accent-foreground/90">
             About Velvet Brew
           </p>
-          <h1 className="font-display text-4xl font-medium leading-[1.05] tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
+          <h1 className="font-display text-4xl font-medium leading-[1.05] tracking-tight text-[oklch(0.75_0.07_70.88)] sm:text-5xl md:text-6xl lg:text-7xl">
             A small cafe with an obsessive love of coffee.
           </h1>
           <p className="mt-6 max-w-2xl text-base leading-relaxed text-cream/85 sm:text-lg">
